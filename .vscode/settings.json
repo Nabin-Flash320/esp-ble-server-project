@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "*.ipp": "c",
+        "ezlopi_devices.h": "c",
+        "ezlopi_cloud.h": "c",
+        "i2c.h": "c",
+        "soc_caps.h": "c",
+        "i2c_types.h": "c",
+        "i2c_periph.h": "c",
+        "esp_intr_alloc.h": "c",
+        "gpio_isr_service.h": "c",
+        "0038_sensor_presence_sensor.h": "c",
+        "xensiv_bgt60trxx_esp32.h": "c",
+        "0037_sens_pms5003_sensor.h": "c",
+        "ezlopi_cloud_constants.h": "c",
+        "array": "c",
+        "chrono": "c",
+        "compare": "c",
+        "functional": "c",
+        "ratio": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "esp_gap_ble_api.h": "c",
+        "esp_gatts_api.h": "c",
+        "esp_bt_defs.h": "c",
+        "esp_bt_main.h": "c",
+        "esp_gatt_common_api.h": "c",
+        "esp_bt.h": "c",
+        "nvs_flash.h": "c"
+    }
+}

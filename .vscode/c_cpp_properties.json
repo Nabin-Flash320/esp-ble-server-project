@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${HOME}/esp/esp-idf/components/**",
+                "${workspaceFolder}/**"
+            ]
+        }
+    ],
+    "version": 4
+}

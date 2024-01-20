@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/ndj320/Programs/c-workspace/esp-ble-server-proj/build/CMakeFiles/bootloader
+/home/ndj320/Programs/c-workspace/esp-ble-server-proj/build/CMakeFiles/bootloader.rule
+/home/ndj320/Programs/c-workspace/esp-ble-server-proj/build/CMakeFiles/bootloader-complete.rule
+/home/ndj320/Programs/c-workspace/esp-ble-server-proj/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/ndj320/Programs/c-workspace/esp-ble-server-proj/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/ndj320/Programs/c-workspace/esp-ble-server-proj/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/ndj320/Programs/c-workspace/esp-ble-server-proj/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/ndj320/Programs/c-workspace/esp-ble-server-proj/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/ndj320/Programs/c-workspace/esp-ble-server-proj/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/ndj320/Programs/c-workspace/esp-ble-server-proj/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
